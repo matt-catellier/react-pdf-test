@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "print": "npx babel-node index.js",
+    "print-no-babel": "node no-babel.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

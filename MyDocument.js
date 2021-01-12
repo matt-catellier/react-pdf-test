@@ -84,7 +84,7 @@ const MyDocument = () => (
         }
       </View>
       <View style={styles.footer}>
-        <Text>Create on borderfront.com</Text>
+        <Text>Create on test</Text>
         <Image src="./public/images/logo.png" style={{width: 200}} />
       </View>
     </Page>
